@@ -1,0 +1,110 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20240930174342
+Username: IANPC\IanS2
+RunAs User: IANPC\IanS2
+
+**********************
+PS C:\Users\IanS2\Documents\SCSU Classes\Fall 2024\CSCI 530\Stage 1\warehouse-stage-i-implementation-IanSpencer22\WareStage1> java Tester.java
+Initial Products:
+Product[name=Product1, id=p1, quantity=10]
+Product[name=Product2, id=p2, quantity=5]
+Would you like to add a product to the catalog? (Y|y)[es] or anything else for no
+y
+Enter product id
+Enter product name
+p3
+Enter quantity
+20
+Product added successfully
+Current Products:
+Product[name=Product1, id=p1, quantity=10]
+Product[name=Product2, id=p2, quantity=5]
+Product[name=p3, id=Product3, quantity=20]
+Would you like to add a product to the catalog? (Y|y)[es] or anything else for no
+y
+Enter product id
+p4
+Enter product name
+Product4
+Enter quantity
+12
+Product added successfully
+Current Products:
+Product[name=Product1, id=p1, quantity=10]
+Product[name=Product2, id=p2, quantity=5]
+Product[name=p3, id=Product3, quantity=20]
+Product[name=Product4, id=p4, quantity=12]
+Product[name=p3, id=Product3, quantity=20]
+Would you like to add a product to the catalog? (Y|y)[es] or anything else for no
+y
+Enter product id
+p4
+Enter product name
+Product4
+Enter quantity
+12
+Product added successfully
+Current Products:
+Product[name=Product1, id=p1, quantity=10]
+Product[name=Product2, id=p2, quantity=5]
+Product[name=p3, id=Product3, quantity=20]
+Product[name=Product4, id=p4, quantity=12]
+Would you like to add a product to the catalog? (Y|y)[es] or anything else for no
+y
+Enter product id
+p4
+Enter product name
+Product4
+Enter quantity
+12
+Product added successfully
+Current Products:
+Product[name=Product1, id=p1, quantity=10]
+Product[name=Product2, id=p2, quantity=5]
+Product[name=p3, id=Product3, quantity=20]
+Product[name=Product4, id=p4, quantity=12]
+Enter product id
+p4
+Enter product name
+Product4
+Enter quantity
+12
+Product added successfully
+Current Products:
+Product[name=Product1, id=p1, quantity=10]
+Product[name=Product2, id=p2, quantity=5]
+Product[name=p3, id=Product3, quantity=20]
+Product[name=Product4, id=p4, quantity=12]
+12
+Product added successfully
+Current Products:
+Product[name=Product1, id=p1, quantity=10]
+Product[name=Product2, id=p2, quantity=5]
+Product[name=p3, id=Product3, quantity=20]
+Product[name=Product4, id=p4, quantity=12]
+Product[name=Product1, id=p1, quantity=10]
+Product[name=Product2, id=p2, quantity=5]
+Product[name=p3, id=Product3, quantity=20]
+Product[name=Product4, id=p4, quantity=12]
+Product[name=Product2, id=p2, quantity=5]
+Product[name=p3, id=Product3, quantity=20]
+Product[name=Product4, id=p4, quantity=12]
+Product[name=p3, id=Product3, quantity=20]
+Product[name=Product4, id=p4, quantity=12]
+Would you like to order a product? (Y|y)[es] or anything else for no
+n
+Current Products:
+Product[name=Product1, id=p1, quantity=10]
+Product[name=Product2, id=p2, quantity=5]
+Product[name=p3, id=Product3, quantity=20]
+Product[name=Product4, id=p4, quantity=12]
+Waitlist:
+Would you like to save the warehouse data? (Y|y)[es] or anything else for no
+n
+PS C:\Users\IanS2\Documents\SCSU Classes\Fall 2024\CSCI 530\Stage 1\warehouse-stage-i-implementation-IanSpencer22\WareStage1> Stop-Transcript
+
+**********************
+Windows PowerShell transcript end
+End time: 20240930174347
+**********************
